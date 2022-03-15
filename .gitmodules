@@ -1,0 +1,12 @@
+[submodule "detector-analysis"]
+	path = detector-analysis
+	url = git@github.com:iaxo/detector-analysis.git
+[submodule "detector-simulations"]
+	path = detector-simulations
+	url = git@github.com:iaxo/detector-simulations.git
+[submodule "detector-geometry"]
+	path = detector-geometry
+	url = git@github.com:iaxo/detector-geometry.git
+[submodule "detector-readouts"]
+	path = detector-readouts
+	url = git@github.com:iaxo/detector-readouts.git
