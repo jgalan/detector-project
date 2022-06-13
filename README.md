@@ -7,7 +7,8 @@ These template repositories are expected to be transformed using a *project-name
 Here a brief description of the intention of each repository submodule:
 
 * `detector-analysis`: It will contain configuration files defining a data chain for experimental data processing.
-* `detector-simulations`: It will contain configuration files defining `restGH4` simulations (and eventually `detector-response`, or perhaps we will integrate the response in an independent repository?).
+* `detector-simulations`: It will contain configuration files defining `restG4` simulations.
+* `detector-processing` Integrate the Monte Carlo response, raw detector data processing, event reconstruction, etc.
 * `detector-readouts`: It will contain description of readout constructions (see also [basic-readouts](https://github.com/rest-for-physics/basic-readouts).
 * `detector-geometry`: It will contain description of GDML geometries to be used on `restG4` simulations (see also [basic-geometries](https://github.com/rest-for-physics/basic-geometries).
 
